@@ -1,0 +1,11 @@
+C:\Users\Виктория\Desktop\Майборода ИСПРО\SupermarketApp\SupermarketApp\bin\Debug\SupermarketApp.exe.config
+C:\Users\Виктория\Desktop\Майборода ИСПРО\SupermarketApp\SupermarketApp\bin\Debug\SupermarketApp.exe
+C:\Users\Виктория\Desktop\Майборода ИСПРО\SupermarketApp\SupermarketApp\bin\Debug\SupermarketApp.pdb
+C:\Users\Виктория\Desktop\Майборода ИСПРО\SupermarketApp\SupermarketApp\obj\Debug\SupermarketApp.csproj.AssemblyReference.cache
+C:\Users\Виктория\Desktop\Майборода ИСПРО\SupermarketApp\SupermarketApp\obj\Debug\SupermarketApp.SpisokProducts.resources
+C:\Users\Виктория\Desktop\Майборода ИСПРО\SupermarketApp\SupermarketApp\obj\Debug\SupermarketApp.Properties.Resources.resources
+C:\Users\Виктория\Desktop\Майборода ИСПРО\SupermarketApp\SupermarketApp\obj\Debug\SupermarketApp.csproj.GenerateResource.cache
+C:\Users\Виктория\Desktop\Майборода ИСПРО\SupermarketApp\SupermarketApp\obj\Debug\SupermarketApp.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\Desktop\Майборода ИСПРО\SupermarketApp\SupermarketApp\obj\Debug\SupermarketApp.exe
+C:\Users\Виктория\Desktop\Майборода ИСПРО\SupermarketApp\SupermarketApp\obj\Debug\SupermarketApp.pdb
+C:\Users\Виктория\Desktop\Майборода ИСПРО\SupermarketApp\SupermarketApp\obj\Debug\SupermarketApp.exe.config

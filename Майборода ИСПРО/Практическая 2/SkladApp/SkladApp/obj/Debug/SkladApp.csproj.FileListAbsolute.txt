@@ -1,0 +1,11 @@
+C:\Users\Виктория\Desktop\Майборода ИСПРО\SkladApp\SkladApp\obj\Debug\SkladApp.csproj.AssemblyReference.cache
+C:\Users\Виктория\Desktop\Майборода ИСПРО\SkladApp\SkladApp\obj\Debug\SkladApp.Properties.Resources.resources
+C:\Users\Виктория\Desktop\Майборода ИСПРО\SkladApp\SkladApp\obj\Debug\SkladApp.Form1.resources
+C:\Users\Виктория\Desktop\Майборода ИСПРО\SkladApp\SkladApp\obj\Debug\SkladApp.csproj.GenerateResource.cache
+C:\Users\Виктория\Desktop\Майборода ИСПРО\SkladApp\SkladApp\obj\Debug\SkladApp.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\Desktop\Майборода ИСПРО\SkladApp\SkladApp\bin\Debug\SkladApp.exe.config
+C:\Users\Виктория\Desktop\Майборода ИСПРО\SkladApp\SkladApp\bin\Debug\SkladApp.exe
+C:\Users\Виктория\Desktop\Майборода ИСПРО\SkladApp\SkladApp\bin\Debug\SkladApp.pdb
+C:\Users\Виктория\Desktop\Майборода ИСПРО\SkladApp\SkladApp\obj\Debug\SkladApp.exe
+C:\Users\Виктория\Desktop\Майборода ИСПРО\SkladApp\SkladApp\obj\Debug\SkladApp.pdb
+C:\Users\Виктория\Desktop\Майборода ИСПРО\SkladApp\SkladApp\obj\Debug\SkladApp.exe.config
